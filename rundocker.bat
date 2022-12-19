@@ -1,0 +1,1 @@
+docker run -it --gpus all --name smallub env_ubuntu
